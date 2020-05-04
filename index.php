@@ -8,7 +8,7 @@
          <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1">
          	<div class="section-header-1">
 				<h3 class="wow bounceInLeft">Welcome To Krishna Packers Movers</h3>
-				<p class="wow bounceInRight">Welcome Krishna Packers and Movers. Welcome Movers & Packers can help you with all Period of your move, from providing all stuff packing material to delivering your items to your Drop location.</p>
+				<p class="wow bounceInRight">Welcome Krishna Packers and Movers. Welcome Movers and Packers can help you with all Period of your move, from providing all stuff packing material to delivering your items to your Drop location.</p>
 			</div>
          </div>
       </div>
